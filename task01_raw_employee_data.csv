@@ -1,0 +1,8 @@
+EmployeeID,Name,Age,Gender,Department,Salary,JoiningDate
+101,John Doe,28,Male,HR,50000.0,2021-01-15
+102,Jane Smith,,Female,IT,60000.0,15/02/2021
+103,John Doe,28,Male,HR,50000.0,2021-01-15
+104,Mike Brown,35,Male,Finance,,2021/03/20
+105,,42,Female,IT,72000.0,2021-04-10
+106,ANNA WHITE,29,Female,it,55000.0,2021-05-01
+107,Rahul Verma,Thirty,Male,HR,48000.0,2021-06-18
